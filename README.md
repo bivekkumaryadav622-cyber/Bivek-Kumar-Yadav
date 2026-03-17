@@ -7,14 +7,14 @@
 # 1. Write a Python Program Using nested if-else statements to determine
 # a students grade based on marks: Marks>=80 A:,Marks>=70:B,Marks>=60:C,Marks>=50:D,Marks<=38?
 #-------------------------------------------------------------------------------------------------
-# Python = P = 90
-# Digital_Logic = D = 75
-# English = E = 65
-# Sociology = S = 85 
-# Total_Marks = P+D+E+S
-# Marks = Total_Marks / 4
-
 # Program :-
+
+ Python = P = 90
+ Digital_Logic = D = 75
+ English = E = 65
+ Sociology = S = 85 
+ Total_Marks = P+D+E+S
+ Marks = Total_Marks / 4
 
  if P>=40 and D>=40 and E>=40 and S>=40:
      if Marks>=75:
