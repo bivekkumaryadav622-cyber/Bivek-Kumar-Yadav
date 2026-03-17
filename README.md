@@ -1,2 +1,1 @@
-# Bivek-Kumar-Yadav
-A Student of AI
+# Python Assignment No.2:-
